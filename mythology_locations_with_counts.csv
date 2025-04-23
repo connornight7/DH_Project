@@ -1,8 +1,4 @@
 Place,God,Latitude,Longitude,Frequency,Sources
-APOLLODORUS,Apollo,,,2,Apollodorus
-Apollodorus,Apollo,,,4,"Apollodorus, Iliad"
-B.C.,Apollo,55.001251,-125.002441,1,Apollodorus
-A.D.,Apollo,45.5371719,12.1713559,1,Apollodorus
 Cambridge,Apollo,52.2055314,0.1186637,1,Apollodorus
 London,Apollo,51.5074456,-0.1277653,1,Apollodorus
 Semele,Hera,-34.6245058,-58.51175,1,Apollodorus
@@ -67,30 +63,20 @@ Myrmidon,Zeus,-43.5739676,170.7186932,1,Apollodorus
 Nireus,Zeus,36.6182535,27.8384055,1,Apollodorus
 Triops,Zeus,42.1254086,2.7652386,1,Apollodorus
 Triops,Poseidon,42.1254086,2.7652386,1,Apollodorus
-Aloads,Poseidon,,,1,Apollodorus
-Hermes,Artemis,,,0,
-Aloads,Artemis,,,1,Apollodorus
 Naxos,Artemis,37.8240743,15.2694003,1,Apollodorus
 Thessaly,Zeus,39.5755929,22.1634449,2,Apollodorus
-Laodocus,Apollo,,,1,Apollodorus
-Polypoetes,Apollo,,,1,Apollodorus
 Aetolia,Apollo,37.9869121,23.7632638,2,Apollodorus
 Pleuron,Apollo,38.4159947,21.4095166,2,Apollodorus
 Calydon,Apollo,51.4840927,0.0274069,2,Apollodorus
 Sterope,Ares,41.8744219,12.6169822,1,Apollodorus
 Aeolia,Ares,53.2993656,-2.2410472,1,Apollodorus
-Amythaon,Ares,,,1,Apollodorus
-Protogenia,Ares,,,1,Apollodorus
-Porthaon,Apollo,,,1,Apollodorus
 Evenus,Apollo,51.896693,-8.4593409,1,Apollodorus
 Molus,Apollo,36.813142,-83.4904683,1,Apollodorus
-Aphareus,Apollo,,,1,Apollodorus
 Poseidon,Apollo,57.6971779,11.979591,1,Apollodorus
 Sterope,Dionysus,41.8744219,12.6169822,1,Apollodorus
 Calydon,Dionysus,51.4840927,0.0274069,1,Apollodorus
 Greece,Ares,38.9953683,21.9877132,12,"Apollodorus, Iliad"
 Calydon,Zeus,51.4840927,0.0274069,1,Apollodorus
-Aphareus,Zeus,,,2,Apollodorus
 Athens,Zeus,33.9597677,-83.376398,1,Apollodorus
 Ancaeus,Zeus,,,1,Apollodorus
 Cepheus,Zeus,59.3248494,18.0719228,2,Apollodorus
@@ -186,8 +172,7 @@ Mars,Apollo,45.022172,4.3221548,9,"Iliad, Odyssey"
 Thereon,Hephaestus,35.9307123,128.53893,1,Odyssey
 Troy,Ares,42.7284117,-73.6917878,12,"Iliad, Odyssey"
 North,Hera,13.45911,-2.2496367,1,Odyssey
-"the
-sea",Hera,41.8822194,-87.6188156,1,Odyssey
+"the sea",Hera,41.8822194,-87.6188156,1,Odyssey
 Aeolus,Hera,51.9155409,4.3455155,1,Odyssey
 North Wind,Hades,39.4089959,-76.5105201,1,Odyssey
 Mount Pelion,Apollo,-20.9375455,148.7880595,1,Odyssey
@@ -221,7 +206,6 @@ Achilles,Hera,37.2801422,-76.4402257,8,Iliad
 thou,Ares,47.5790082,2.9076132,5,Iliad
 Jove,Hades,43.6851765,-7.5115144,3,Iliad
 Jove,Hermes,43.6851765,-7.5115144,1,Iliad
-depress’d,Hades,,,1,Iliad
 Augia,Ares,45.8505426,-0.0967359,1,Iliad
 Abantes,Ares,40.4060868,-3.5599122,1,Iliad
 Athens,Athena,33.9597677,-83.376398,1,Iliad
@@ -233,12 +217,10 @@ Ascanius,Hades,-34.9694329,117.9265762,1,Iliad
 Tmolus,Hades,38.3335174,27.9824263,2,Iliad
 Paris,Ares,48.8534951,2.3483915,4,Iliad
 Troy,Hera,42.7284117,-73.6917878,7,Iliad
-Idæus,Hera,,,4,Iliad
 Paris,Hades,48.8534951,2.3483915,1,Iliad
 Lycaon,Athena,33.9530321,-6.8959835,2,Iliad
 Simois,Ares,-34.6002391,-55.4639303,2,Iliad
 Æneas,Apollo,48.5473813,-118.9786447,1,Iliad
-Idæus,Hephaestus,,,1,Iliad
 Cretan,Hades,35.0400959,25.9901704,2,Iliad
 Paris,Athena,48.8534951,2.3483915,1,Iliad
 Thoon,Ares,27.3774266,77.1178651,1,Iliad
@@ -267,7 +249,6 @@ Great Agamemnon,Hera,,,1,Iliad
 Jove,Ares,43.6851765,-7.5115144,2,Iliad
 Us,Hades,39.7837304,-100.445882,1,Iliad
 Tydeus,Hades,,,1,Iliad
-check’d,Ares,,,0,
 Jupiter,Ares,26.9342246,-80.0942087,3,Iliad
 Xanthus,Apollo,-35.2530816,149.0713013,1,Iliad
 Headlong,Hades,-44.5395893,168.5918104,1,Iliad
@@ -301,7 +282,6 @@ Hicetaon,Ares,,,1,Iliad
 Capys,Ares,-14.8163612,-64.8813666,1,Iliad
 Peleus,Athena,-77.474047,162.0771747,1,Iliad
 Simois,Athena,-34.6002391,-55.4639303,1,Iliad
-Dismiss’d,Apollo,,,1,Iliad
 Jove,Athena,43.6851765,-7.5115144,1,Iliad
 Achilles,Hades,37.2801422,-76.4402257,3,Iliad
 Automedon,Hera,49.2567194,7.0411348,3,Iliad

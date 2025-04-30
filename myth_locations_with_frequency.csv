@@ -1,4 +1,6 @@
 Place,Latitude,Longitude,God,Source,Frequency
+B.C.,55.001251,-125.002441,Apollo,Apollodorus,1
+A.D.,45.5371719,12.1713559,Apollo,Apollodorus,1
 Cambridge,52.2055314,0.1186637,Apollo,Apollodorus,1
 London,51.5074456,-0.1277653,Apollo,Apollodorus,1
 Semele,-34.6245058,-58.51175,Hera,Apollodorus,1
@@ -132,7 +134,8 @@ Mars,45.022172,4.3221548,Apollo,Odyssey,9
 Thereon,35.9307123,128.53893,Hephaestus,Odyssey,1
 Troy,42.7284117,-73.6917878,Ares,Odyssey,12
 North,13.45911,-2.2496367,Hera,Odyssey,1
-"the sea",41.8822194,-87.6188156,Hera,Odyssey,1
+"the
+sea",41.8822194,-87.6188156,Hera,Odyssey,1
 Aeolus,51.9155409,4.3455155,Hera,Odyssey,1
 North Wind,39.4089959,-76.5105201,Hades,Odyssey,1
 Mount Pelion,-20.9375455,148.7880595,Apollo,Odyssey,1
@@ -240,13 +243,12 @@ Opp,31.2821209,-86.255839,Hera,Iliad,1
 Troas,46.0949315,22.2979167,Apollo,Iliad,1
 Thebe,42.9657579,0.5902121,Apollo,Iliad,1
 Iliad,31.2955678,77.1369731,Apollo,Iliad,1
-Minerva,-18.5223364,-136.3779317,Hera,Iliad,1
+Minerva,-18.5211147,-136.3679094,Hera,Iliad,1
 Clem,38.6342643,-80.914271,Hera,Iliad,1
 Pollux,45.9278079,7.7853104,Hera,Iliad,1
 Hercules,38.0171441,-122.2885808,Hephaestus,Iliad,1
 Greece,38.9953683,21.9877132,Hephaestus,Iliad,2
 Aulis,44.2167595,1.2838846,Apollo,Iliad,1
-sqq.,55.8925148,23.3950228,Ares,Iliad,1
 Pagan,21.1317111,94.8623644,Zeus,Iliad,1
 Jupiter,26.9342246,-80.0942087,Zeus,Iliad,1
 Sarpedon,-44.585308,168.241981,Ares,Iliad,2

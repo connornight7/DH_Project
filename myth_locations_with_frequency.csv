@@ -107,8 +107,6 @@ Sidonia,-37.1632035,144.5597893,Ares,Odyssey,1
 Thebes,37.2208838,-89.4609209,Apollo,Odyssey,1
 Troy,42.7284117,-73.6917878,Hades,Odyssey,3
 Lesbos,39.1758418,25.9989135,Apollo,Odyssey,1
-Ulysses,37.5814095,-101.355169,Ares,Odyssey,1
-Ulysses,37.5814095,-101.355169,Hades,Odyssey,1
 Ithaca,42.4374175,-76.5483724,Hades,Odyssey,1
 Odyssey,38.7453944,-76.6294061,Apollo,Iliad,3
 Achilles,37.2801422,-76.4402257,Athena,Iliad,4
@@ -154,7 +152,6 @@ Lampus,49.4326786,15.3344666,Ares,Iliad,1
 Capys,-14.8163612,-64.8813666,Ares,Iliad,1
 Peleus,-77.474047,162.0771747,Athena,Iliad,1
 Simois,-34.6002391,-55.4639303,Athena,Iliad,1
-Jove,43.6851765,-7.5115144,Athena,Iliad,1
 Achilles,37.2801422,-76.4402257,Hades,Iliad,3
 Automedon,49.2567194,7.0411348,Hera,Iliad,3
 Mysia,52.2306073,21.0203915,Hera,Iliad,1
@@ -176,5 +173,3 @@ Aulis,44.2167595,1.2838846,Apollo,Iliad,1
 Sarpedon,-44.585308,168.241981,Ares,Iliad,2
 Iliad,31.2955678,77.1369731,Hephaestus,Iliad,1
 Asia Minor,39.0,32.0,Hephaestus,Iliad,1
-Ulysses,37.5814095,-101.355169,Apollo,Iliad,1
-Iliad,31.2955678,77.1369731,Ares,Iliad,1
